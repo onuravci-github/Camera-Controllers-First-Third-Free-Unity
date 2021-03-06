@@ -1,0 +1,1561 @@
+fileFormatVersion: 2
+guid: 369b4bb0a2a6f2e429943b6c48c7339b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8757889876691937017
+    second: Text CAM
+  - first:
+      213: -6119536389392477608
+    second: Controller UI_1
+  - first:
+      213: -8655376375913522886
+    second: Text CUBE
+  - first:
+      213: -4197592952616692371
+    second: Controller UI_3
+  - first:
+      213: -2764036131871796325
+    second: Controller UI_4
+  - first:
+      213: 1702464891926343273
+    second: Controller UI_5
+  - first:
+      213: -7089602432026948629
+    second: Background 1
+  - first:
+      213: -2280121605445314562
+    second: Text HERO
+  - first:
+      213: 5445737400938597240
+    second: Controller UI_8
+  - first:
+      213: 8122689418249563787
+    second: Controller UI_9
+  - first:
+      213: 2249259589473553484
+    second: Controller UI_10
+  - first:
+      213: -8855861124722860046
+    second: Text SPHERE
+  - first:
+      213: -5308916549433929227
+    second: Controller UI_12
+  - first:
+      213: -288856967862372405
+    second: Controller UI_13
+  - first:
+      213: 2291134304265289046
+    second: Controller UI_14
+  - first:
+      213: -6926648953348137194
+    second: Controller UI_15
+  - first:
+      213: 5142311782786282755
+    second: Background 2
+  - first:
+      213: -6185929563026879042
+    second: Text ANIMAL
+  - first:
+      213: -736744777514022661
+    second: Controller UI_18
+  - first:
+      213: -2276044358407104368
+    second: Controller UI_19
+  - first:
+      213: -1284117223439969500
+    second: Controller UI_20
+  - first:
+      213: 5026916101976790299
+    second: Controller UI_21
+  - first:
+      213: 5134394297401602843
+    second: Controller UI_22
+  - first:
+      213: -49041342210390379
+    second: Text MAN
+  - first:
+      213: 5230313200703914049
+    second: Controller UI_24
+  - first:
+      213: -8824512896820664254
+    second: Controller UI_25
+  - first:
+      213: -3763851506100692377
+    second: Text WOMAN
+  - first:
+      213: 7354279863546159858
+    second: Controller UI_27
+  - first:
+      213: -1644090094237992037
+    second: Controller UI_28
+  - first:
+      213: -252953209677536704
+    second: Controller UI_29
+  - first:
+      213: 4157464939017285521
+    second: Controller UI_30
+  - first:
+      213: 9130874849588444579
+    second: Background 3
+  - first:
+      213: -2016454204926700738
+    second: Square 1
+  - first:
+      213: 8581672951250864957
+    second: Square 2
+  - first:
+      213: 7835548641478185438
+    second: Background 4
+  - first:
+      213: 7392277786006219481
+    second: Square 3
+  - first:
+      213: 8331614640172464153
+    second: Square 4
+  - first:
+      213: -3610003627990138359
+    second: Square 5
+  - first:
+      213: -5131981246011960812
+    second: Square 6
+  - first:
+      213: 8610725372145062023
+    second: Crystal 1
+  - first:
+      213: 5091023631370153609
+    second: Crystal 2
+  - first:
+      213: 2277592509824625498
+    second: Crystal 3
+  - first:
+      213: -8508553162210832983
+    second: Crystal 4
+  - first:
+      213: -2383180723358939362
+    second: Crystal 5
+  - first:
+      213: -3065106356911956680
+    second: Crystal 6
+  - first:
+      213: -6783939033990349673
+    second: Crystal 7
+  - first:
+      213: -4698488266698346069
+    second: Crystal 8
+  - first:
+      213: -938612684544150673
+    second: Square 7
+  - first:
+      213: 4776167723322479081
+    second: Square 8
+  - first:
+      213: -8143014799873779623
+    second: Crystal 9
+  - first:
+      213: 379716053204314396
+    second: Crystal 10
+  - first:
+      213: -6811695269535253446
+    second: Crystal 11
+  - first:
+      213: 6016380982358180983
+    second: Crystal 12
+  - first:
+      213: 8211570990689406733
+    second: Crystal 13
+  - first:
+      213: -4462759299465078937
+    second: Crystal 14
+  - first:
+      213: -5670199801841944405
+    second: Circle 1
+  - first:
+      213: -165038250798422544
+    second: Circle 2
+  - first:
+      213: -8662315968174303982
+    second: Circle 3
+  - first:
+      213: -5949017463825221086
+    second: Fill 1
+  - first:
+      213: -5788847352573417262
+    second: Fill 2
+  - first:
+      213: 4804348846989585855
+    second: Circle 4
+  - first:
+      213: 8689614109503455043
+    second: Circle 5
+  - first:
+      213: -6888156769269454456
+    second: Circle 6
+  - first:
+      213: -509755536858632127
+    second: Controller UI_63
+  - first:
+      213: -2941803721485479213
+    second: Tick 1
+  - first:
+      213: -5101552306017164903
+    second: Controller UI_65
+  - first:
+      213: 1644210805580140004
+    second: Tick 3
+  - first:
+      213: -8439055657681972874
+    second: Fill 3
+  - first:
+      213: -2927588709133007324
+    second: Fill 4
+  - first:
+      213: -8847197362177261971
+    second: Controller UI_69
+  - first:
+      213: 7353341371051340475
+    second: Fill 5
+  - first:
+      213: -7251894710081185877
+    second: Fill 6
+  - first:
+      213: -718805123346855965
+    second: Circle 7
+  - first:
+      213: -8407664793627596741
+    second: Circle 8
+  - first:
+      213: -5012010326237257730
+    second: Circle 9
+  - first:
+      213: -8247346929144165121
+    second: Tick 2
+  - first:
+      213: -4872028659137992237
+    second: Tick 4
+  - first:
+      213: 2172419096909721435
+    second: Fill 7
+  - first:
+      213: 735818965858104039
+    second: Fill 8
+  - first:
+      213: 3595373509611941451
+    second: Fill 9
+  - first:
+      213: 3069228524461805436
+    second: Fiill Background
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Text CAM
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1973
+        width: 132
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6663a01764a8970800000000000000
+      internalID: 8757889876691937017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text CUBE
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1976
+        width: 140
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39dd545b0de1e780800000000000000
+      internalID: -8655376375913522886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background 1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1959
+        width: 1597
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebc940862cac9d90800000000000000
+      internalID: -7089602432026948629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text HERO
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1874
+        width: 152
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef71dbefa716b50e0800000000000000
+      internalID: -2280121605445314562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text SPHERE
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1884
+        width: 160
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffd3b83a39a91580800000000000000
+      internalID: -8855861124722860046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background 2
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1846
+        width: 1597
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305384142592d5740800000000000000
+      internalID: 5142311782786282755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text ANIMAL
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1778
+        width: 167
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd023e36d9272aa0800000000000000
+      internalID: -6185929563026879042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text MAN
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1790
+        width: 101
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596cd3ab825c15ff0800000000000000
+      internalID: -49041342210390379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text WOMAN
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1684
+        width: 177
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a9c873ffc14cbc0800000000000000
+      internalID: -3763851506100692377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background 3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1527
+        width: 1534
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad744a5c4267be70800000000000000
+      internalID: 9130874849588444579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square 1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1413
+        width: 186
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e335081959d1404e0800000000000000
+      internalID: -2016454204926700738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square 2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1413
+        width: 187
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bc2edd41a381770800000000000000
+      internalID: 8581672951250864957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background 4
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1168
+        width: 1551
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed11a9399f57dbc60800000000000000
+      internalID: 7835548641478185438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square 3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1189
+        width: 186
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da69ebfa75a69660800000000000000
+      internalID: 7392277786006219481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square 4
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1189
+        width: 187
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9187ce85f57df9370800000000000000
+      internalID: 8331614640172464153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square 5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 964
+        width: 186
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902c6c3b3d0b6edc0800000000000000
+      internalID: -3610003627990138359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square 6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 964
+        width: 187
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4129d754f3a87c8b0800000000000000
+      internalID: -5131981246011960812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal 1
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 898
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7805629ba117f7770800000000000000
+      internalID: 8610725372145062023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal 2
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 898
+        width: 149
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98eefe2f403f6a640800000000000000
+      internalID: 5091023631370153609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal 3
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 898
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bef2b0252ab9f10800000000000000
+      internalID: 2277592509824625498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal 4
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 898
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad85edaafb8be980800000000000000
+      internalID: -8508553162210832983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal 5
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 898
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17c1ac32cd3deed0800000000000000
+      internalID: -2383180723358939362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal 6
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 898
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d987d020e8675d0800000000000000
+      internalID: -3065106356911956680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal 7
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 898
+        width: 149
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c3915346b9ad1a0800000000000000
+      internalID: -6783939033990349673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal 8
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 898
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1ba1aa0dd9bceb0800000000000000
+      internalID: -4698488266698346069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square 7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 740
+        width: 186
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63f1148cb069f2f0800000000000000
+      internalID: -938612684544150673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square 8
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 740
+        width: 187
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e192583d3b584240800000000000000
+      internalID: 4776167723322479081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal 9
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 653
+        width: 149
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95856ccde233efe80800000000000000
+      internalID: -8143014799873779623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal 10
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 653
+        width: 149
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19a1c21db5054500800000000000000
+      internalID: 379716053204314396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal 11
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 653
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c74250e3ff771a0800000000000000
+      internalID: -6811695269535253446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal 12
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 653
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77400e690aa7e7350800000000000000
+      internalID: 6016380982358180983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal 13
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 653
+        width: 148
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fc1fb2f4c55f170800000000000000
+      internalID: 8211570990689406733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal 14
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 653
+        width: 149
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7671055df081112c0800000000000000
+      internalID: -4462759299465078937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 491
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba878bd72576f41b0800000000000000
+      internalID: -5670199801841944405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle 2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 491
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5eec6d59aa5bdf0800000000000000
+      internalID: -165038250798422544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle 3
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 491
+        width: 201
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215d6c8958549c780800000000000000
+      internalID: -8662315968174303982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fill 1
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 491
+        width: 366
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a3a1ac228d07da0800000000000000
+      internalID: -5949017463825221086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fill 2
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 491
+        width: 365
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8a6e2e002e9afa0800000000000000
+      internalID: -5788847352573417262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle 4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd2fd162d97ca240800000000000000
+      internalID: 4804348846989585855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle 5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 246
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ffc283ef5b79870800000000000000
+      internalID: 8689614109503455043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle 6
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 246
+        width: 201
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889ed72d9e95860a0800000000000000
+      internalID: -6888156769269454456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tick 1
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 304
+        width: 135
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d29fe50a1d9c27d0800000000000000
+      internalID: -2941803721485479213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tick 3
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 310
+        width: 101
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed867a240961d610800000000000000
+      internalID: 1644210805580140004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fill 3
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 366
+        width: 366
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6719d14679372ea80800000000000000
+      internalID: -8439055657681972874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fill 4
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 366
+        width: 365
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426ceaf749d1f57d0800000000000000
+      internalID: -2927588709133007324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fill 5
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 246
+        width: 366
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2f2bd64015c0660800000000000000
+      internalID: 7353341371051340475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fill 6
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 246
+        width: 365
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba79311fe281c5b90800000000000000
+      internalID: -7251894710081185877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle 7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e70e287c8a4606f0800000000000000
+      internalID: -718805123346855965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle 8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 200
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38e4497a69f15b80800000000000000
+      internalID: -8407664793627596741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle 9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 0
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effd90eb923c17ab0800000000000000
+      internalID: -5012010326237257730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tick 2
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 106
+        width: 117
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc04fc0aa98b8d80800000000000000
+      internalID: -8247346929144165121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tick 4
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 114
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9ae846fb3136cb0800000000000000
+      internalID: -4872028659137992237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fill 7
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 125
+        width: 366
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f249e98abf52e10800000000000000
+      internalID: 2172419096909721435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fill 8
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 125
+        width: 365
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2b7fe6377263a00800000000000000
+      internalID: 735818965858104039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fill 9
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 13
+        width: 366
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ee44b682555e130800000000000000
+      internalID: 3595373509611941451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fiill Background
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 13
+        width: 458
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fca0fd417189a20800000000000000
+      internalID: 3069228524461805436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a8d2aed1ff8668f42bf86cff7cf491a3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
